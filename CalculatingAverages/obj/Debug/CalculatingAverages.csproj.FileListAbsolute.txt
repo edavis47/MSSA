@@ -1,0 +1,6 @@
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\CalculatingAverages\bin\Debug\CalculatingAverages.exe.config
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\CalculatingAverages\bin\Debug\CalculatingAverages.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\CalculatingAverages\bin\Debug\CalculatingAverages.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.csprojAssemblyReference.cache
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\CalculatingAverages\obj\Debug\CalculatingAverages.pdb
