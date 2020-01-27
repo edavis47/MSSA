@@ -1,0 +1,8 @@
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\BMIexercise\obj\Debug\BMIexercise.csprojAssemblyReference.cache
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\BMIexercise\bin\Debug\BMIexercise.exe.config
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\BMIexercise\bin\Debug\BMIexercise.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\BMIexercise\bin\Debug\BMIexercise.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\BMIexercise\bin\Debug\System.ValueTuple.dll
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\BMIexercise\obj\Debug\BMIexercise.csproj.CopyComplete
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\BMIexercise\obj\Debug\BMIexercise.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\BMIexercise\obj\Debug\BMIexercise.pdb
