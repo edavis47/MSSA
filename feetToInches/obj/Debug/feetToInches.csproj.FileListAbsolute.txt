@@ -1,0 +1,6 @@
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\feetToInches\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\feetToInches\bin\Debug\ConsoleApp1.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\feetToInches\bin\Debug\ConsoleApp1.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\feetToInches\obj\Debug\feetToInches.csprojAssemblyReference.cache
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\feetToInches\obj\Debug\ConsoleApp1.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\feetToInches\obj\Debug\ConsoleApp1.pdb
