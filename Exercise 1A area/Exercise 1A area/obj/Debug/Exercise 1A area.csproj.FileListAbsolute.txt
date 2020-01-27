@@ -1,0 +1,12 @@
+C:\Users\Everett\source\repos\Exercise 1A area\Exercise 1A area\obj\Debug\Exercise 1A area.csprojAssemblyReference.cache
+C:\Users\Everett\source\repos\Exercise 1A area\Exercise 1A area\bin\Debug\Exercise 1A area.exe.config
+C:\Users\Everett\source\repos\Exercise 1A area\Exercise 1A area\bin\Debug\Exercise 1A area.exe
+C:\Users\Everett\source\repos\Exercise 1A area\Exercise 1A area\bin\Debug\Exercise 1A area.pdb
+C:\Users\Everett\source\repos\Exercise 1A area\Exercise 1A area\obj\Debug\Exercise 1A area.exe
+C:\Users\Everett\source\repos\Exercise 1A area\Exercise 1A area\obj\Debug\Exercise 1A area.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\Exercise 1A area\Exercise 1A area\bin\Debug\Exercise 1A area.exe.config
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\Exercise 1A area\Exercise 1A area\bin\Debug\Exercise 1A area.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\Exercise 1A area\Exercise 1A area\bin\Debug\Exercise 1A area.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\Exercise 1A area\Exercise 1A area\obj\Debug\Exercise 1A area.csprojAssemblyReference.cache
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\Exercise 1A area\Exercise 1A area\obj\Debug\Exercise 1A area.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\Exercise 1A area\Exercise 1A area\obj\Debug\Exercise 1A area.pdb
