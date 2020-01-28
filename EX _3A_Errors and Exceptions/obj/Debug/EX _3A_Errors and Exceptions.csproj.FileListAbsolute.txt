@@ -1,0 +1,6 @@
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX _3A_Errors and Exceptions\bin\Debug\EX _3A_Errors and Exceptions.exe.config
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX _3A_Errors and Exceptions\bin\Debug\EX _3A_Errors and Exceptions.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX _3A_Errors and Exceptions\bin\Debug\EX _3A_Errors and Exceptions.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX _3A_Errors and Exceptions\obj\Debug\EX _3A_Errors and Exceptions.exe
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX _3A_Errors and Exceptions\obj\Debug\EX _3A_Errors and Exceptions.pdb
+C:\Users\Everett\Documents\Visual Studio 2019\source\repos\EX _3A_Errors and Exceptions\obj\Debug\EX _3A_Errors and Exceptions.csprojAssemblyReference.cache
